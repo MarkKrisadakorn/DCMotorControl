@@ -1,0 +1,1 @@
+pyside6-uic lab0.ui -o lab0.py
